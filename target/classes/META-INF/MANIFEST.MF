@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: santoshm
+Build-Jdk: 11.0.11
+Implementation-Title: vehicle-operations
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: java
+Implementation-URL: http://www.example.com
+Created-By: Maven Integration for Eclipse
+
