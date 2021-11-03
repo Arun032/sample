@@ -1,0 +1,14 @@
+com/operations/domain/Vehicle.class
+com/operations/response/VehicleResponse.class
+com/operations/App.class
+com/operations/domain/User.class
+com/operations/request/VehicleRequest.class
+com/operations/service/UserService.class
+com/operations/service/PersistenceService.class
+com/operations/endpoint/UserController.class
+com/operations/service/VehicleService.class
+com/operations/request/UserRequest.class
+com/operations/constant/NamedQueryEnum.class
+com/operations/endpoint/VehicleController.class
+com/operations/response/UserResponse.class
+com/operations/constant/NamedQuery.class
