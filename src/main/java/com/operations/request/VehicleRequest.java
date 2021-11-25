@@ -10,4 +10,5 @@ public class VehicleRequest {
 	private String vehicleType;
 	private String vehicleId;
 	private String vehiclenumber;
+	private String vehiclemake;
 }
